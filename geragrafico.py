@@ -13,5 +13,5 @@ def main():
     plt.ylabel('Valores de entrada')
     plt.xlabel('Amostragem')
 
-
+    
 main()
